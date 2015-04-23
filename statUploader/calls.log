@@ -1,0 +1,2753 @@
+Call Log: 
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Classic Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Retreat&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=11&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2726&TeamAScore=250&TeamBScore=66&aHost=0&bHost=0&Mode=0&MatchID=179&Time=438
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Sharq
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=0&ModeID=712&Kills=27&Deaths=17&Obj1=6&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=373&Mode=0&ModeID=712&Kills=22&Deaths=28&Obj1=6&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eMegicz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=0&ModeID=712&Kills=26&Deaths=19&Obj1=5&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=374&Mode=0&ModeID=712&Kills=18&Deaths=27&Obj1=3&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Guigs
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=0&ModeID=712&Kills=27&Deaths=16&Obj1=3&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=375&Mode=0&ModeID=712&Kills=15&Deaths=30&Obj1=2&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RyeK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=0&ModeID=712&Kills=30&Deaths=14&Obj1=2&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=377&Mode=0&ModeID=712&Kills=11&Deaths=26&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Classic Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Riot&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=25&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2727&TeamAScore=6&TeamBScore=4&aHost=0&bHost=0&Mode=1&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Sharq
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=1&ModeID=887&Kills=8&Deaths=4&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=373&Mode=1&ModeID=887&Kills=10&Deaths=6&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eMegicz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=1&ModeID=887&Kills=7&Deaths=6&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=374&Mode=1&ModeID=887&Kills=4&Deaths=8&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Guigs
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=1&ModeID=887&Kills=8&Deaths=7&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=375&Mode=1&ModeID=887&Kills=4&Deaths=8&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RyeK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=1&ModeID=887&Kills=7&Deaths=6&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=377&Mode=1&ModeID=887&Kills=5&Deaths=8&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Classic Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=18&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2728&TeamAScore=11&TeamBScore=0&aHost=0&bHost=0&Mode=3&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Sharq
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=3&ModeID=555&Kills=25&Deaths=21&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=373&Mode=3&ModeID=555&Kills=24&Deaths=29&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eMegicz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=3&ModeID=555&Kills=32&Deaths=21&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=374&Mode=3&ModeID=555&Kills=28&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Guigs
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=3&ModeID=555&Kills=20&Deaths=23&Obj1=8&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=375&Mode=3&ModeID=555&Kills=15&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RyeK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=3&ModeID=555&Kills=17&Deaths=25&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=377&Mode=3&ModeID=555&Kills=21&Deaths=22&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Milgares Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Detroit&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=14&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2729&TeamAScore=230&TeamBScore=174&aHost=0&bHost=0&Mode=0&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Theuss
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=378&Mode=0&ModeID=713&Kills=26&Deaths=34&Obj1=11&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=0&ModeID=713&Kills=36&Deaths=32&Obj1=9&Obj2=6&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=LGnDz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=380&Mode=0&ModeID=713&Kills=31&Deaths=29&Obj1=13&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=0&ModeID=713&Kills=32&Deaths=32&Obj1=8&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Lopes
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=382&Mode=0&ModeID=713&Kills=30&Deaths=32&Obj1=8&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=0&ModeID=713&Kills=28&Deaths=32&Obj1=11&Obj2=3&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RapidBigThug
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=384&Mode=0&ModeID=713&Kills=37&Deaths=35&Obj1=6&Obj2=11&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=0&ModeID=713&Kills=32&Deaths=30&Obj1=5&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Milgares Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Recovery&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=24&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2730&TeamAScore=2&TeamBScore=6&aHost=0&bHost=0&Mode=1&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Theuss
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=378&Mode=1&ModeID=888&Kills=2&Deaths=7&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=1&ModeID=888&Kills=11&Deaths=6&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=LGnDz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=380&Mode=1&ModeID=888&Kills=4&Deaths=7&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=1&ModeID=888&Kills=7&Deaths=3&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Lopes
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=382&Mode=1&ModeID=888&Kills=3&Deaths=8&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=1&ModeID=888&Kills=5&Deaths=2&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RapidBigThug
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=384&Mode=1&ModeID=888&Kills=3&Deaths=8&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=1&ModeID=888&Kills=7&Deaths=2&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Milgares Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Capture the Flag
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=16&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2731&TeamAScore=1&TeamBScore=9&aHost=0&bHost=0&Mode=2&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Theuss
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=378&Mode=2&ModeID=573&Kills=15&Deaths=28&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=2&ModeID=573&Kills=32&Deaths=16&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=LGnDz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=380&Mode=2&ModeID=573&Kills=18&Deaths=27&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=2&ModeID=573&Kills=25&Deaths=18&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Lopes
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=382&Mode=2&ModeID=573&Kills=17&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=2&ModeID=573&Kills=25&Deaths=18&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RapidBigThug
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=384&Mode=2&ModeID=573&Kills=16&Deaths=29&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=2&ModeID=573&Kills=26&Deaths=16&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Milgares Team&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Comeback&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=20&ScoreTypeID=1&GameNum=4
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2732&TeamAScore=11&TeamBScore=14&aHost=0&bHost=0&Mode=3&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Theuss
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=378&Mode=3&ModeID=556&Kills=27&Deaths=26&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=3&ModeID=556&Kills=41&Deaths=28&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=LGnDz
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=380&Mode=3&ModeID=556&Kills=24&Deaths=30&Obj1=7&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=3&ModeID=556&Kills=16&Deaths=25&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Lopes
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=382&Mode=3&ModeID=556&Kills=21&Deaths=31&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=3&ModeID=556&Kills=24&Deaths=24&Obj1=8&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RapidBigThug
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=384&Mode=3&ModeID=556&Kills=27&Deaths=29&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=3&ModeID=556&Kills=34&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Retreat&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=11&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2733&TeamAScore=170&TeamBScore=202&aHost=0&bHost=0&Mode=0&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=0&ModeID=714&Kills=37&Deaths=33&Obj1=8&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=0&ModeID=714&Kills=32&Deaths=32&Obj1=12&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=0&ModeID=714&Kills=25&Deaths=35&Obj1=8&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=0&ModeID=714&Kills=32&Deaths=31&Obj1=9&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=0&ModeID=714&Kills=35&Deaths=33&Obj1=7&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=0&ModeID=714&Kills=34&Deaths=33&Obj1=3&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=0&ModeID=714&Kills=32&Deaths=39&Obj1=13&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=0&ModeID=714&Kills=42&Deaths=36&Obj1=13&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Riot&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=25&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2734&TeamAScore=6&TeamBScore=5&aHost=0&bHost=0&Mode=1&MatchID=179&Time=597
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=1&ModeID=889&Kills=9&Deaths=9&Obj1=1&Obj2=1&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=1&ModeID=889&Kills=9&Deaths=8&Obj1=0&Obj2=0&Obj3=1&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=1&ModeID=889&Kills=10&Deaths=7&Obj1=0&Obj2=1&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=1&ModeID=889&Kills=8&Deaths=7&Obj1=4&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=1&ModeID=889&Kills=4&Deaths=10&Obj1=4&Obj2=0&Obj3=1&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=1&ModeID=889&Kills=10&Deaths=9&Obj1=0&Obj2=0&Obj3=1&Fb=4&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=1&ModeID=889&Kills=9&Deaths=8&Obj1=0&Obj2=0&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=1&ModeID=889&Kills=7&Deaths=8&Obj1=0&Obj2=1&Obj3=2&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=18&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2735&TeamAScore=4&TeamBScore=17&aHost=0&bHost=0&Mode=3&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=3&ModeID=557&Kills=18&Deaths=29&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=3&ModeID=557&Kills=20&Deaths=22&Obj1=8&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=3&ModeID=557&Kills=32&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=3&ModeID=557&Kills=37&Deaths=16&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=3&ModeID=557&Kills=15&Deaths=29&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=3&ModeID=557&Kills=29&Deaths=19&Obj1=6&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=3&ModeID=557&Kills=16&Deaths=27&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=3&ModeID=557&Kills=17&Deaths=24&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Ascend&Mode=Capture the Flag
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=15&ScoreTypeID=1&GameNum=4
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2736&TeamAScore=3&TeamBScore=2&aHost=0&bHost=0&Mode=2&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=2&ModeID=574&Kills=28&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=2&ModeID=574&Kills=27&Deaths=19&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=2&ModeID=574&Kills=25&Deaths=23&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=2&ModeID=574&Kills=15&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=2&ModeID=574&Kills=14&Deaths=20&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=2&ModeID=574&Kills=24&Deaths=18&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=2&ModeID=574&Kills=18&Deaths=23&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=2&ModeID=574&Kills=23&Deaths=26&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Detroit&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=12&ScoreTypeID=1&GameNum=5
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2737&TeamAScore=5&TeamBScore=6&aHost=0&bHost=0&Mode=1&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=1&ModeID=890&Kills=6&Deaths=6&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=1&ModeID=890&Kills=4&Deaths=9&Obj1=1&Obj2=0&Obj3=1&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=1&ModeID=890&Kills=8&Deaths=6&Obj1=0&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=1&ModeID=890&Kills=8&Deaths=5&Obj1=2&Obj2=0&Obj3=1&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=1&ModeID=890&Kills=9&Deaths=7&Obj1=1&Obj2=0&Obj3=2&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=1&ModeID=890&Kills=8&Deaths=6&Obj1=0&Obj2=0&Obj3=2&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=1&ModeID=890&Kills=6&Deaths=6&Obj1=0&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=1&ModeID=890&Kills=5&Deaths=6&Obj1=0&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Retreat&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=11&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2738&TeamAScore=250&TeamBScore=106&aHost=0&bHost=0&Mode=0&MatchID=179&Time=566
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=0&ModeID=715&Kills=38&Deaths=29&Obj1=6&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=0&ModeID=715&Kills=28&Deaths=36&Obj1=11&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=0&ModeID=715&Kills=29&Deaths=30&Obj1=6&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=0&ModeID=715&Kills=22&Deaths=33&Obj1=10&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=0&ModeID=715&Kills=39&Deaths=24&Obj1=14&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=0&ModeID=715&Kills=32&Deaths=33&Obj1=6&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=0&ModeID=715&Kills=30&Deaths=21&Obj1=12&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=0&ModeID=715&Kills=20&Deaths=35&Obj1=8&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Riot&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=25&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2739&TeamAScore=6&TeamBScore=5&aHost=0&bHost=0&Mode=1&MatchID=179&Time=619
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=1&ModeID=891&Kills=9&Deaths=7&Obj1=0&Obj2=0&Obj3=3&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=1&ModeID=891&Kills=10&Deaths=8&Obj1=0&Obj2=0&Obj3=1&Fb=3&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=1&ModeID=891&Kills=9&Deaths=9&Obj1=0&Obj2=0&Obj3=0&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=1&ModeID=891&Kills=3&Deaths=10&Obj1=0&Obj2=0&Obj3=1&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=1&ModeID=891&Kills=13&Deaths=8&Obj1=2&Obj2=0&Obj3=1&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=1&ModeID=891&Kills=9&Deaths=9&Obj1=3&Obj2=0&Obj3=1&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=1&ModeID=891&Kills=4&Deaths=6&Obj1=1&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=1&ModeID=891&Kills=8&Deaths=8&Obj1=0&Obj2=1&Obj3=4&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=18&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2740&TeamAScore=12&TeamBScore=4&aHost=0&bHost=0&Mode=3&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=3&ModeID=558&Kills=22&Deaths=24&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=3&ModeID=558&Kills=22&Deaths=28&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=3&ModeID=558&Kills=14&Deaths=24&Obj1=6&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=3&ModeID=558&Kills=24&Deaths=20&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=3&ModeID=558&Kills=39&Deaths=23&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=3&ModeID=558&Kills=27&Deaths=24&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=3&ModeID=558&Kills=17&Deaths=22&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=3&ModeID=558&Kills=18&Deaths=20&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=19&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2741&TeamAScore=237&TeamBScore=187&aHost=0&bHost=0&Mode=0&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=0&ModeID=716&Kills=43&Deaths=35&Obj1=5&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=0&ModeID=716&Kills=26&Deaths=36&Obj1=8&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=0&ModeID=716&Kills=32&Deaths=31&Obj1=10&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=0&ModeID=716&Kills=22&Deaths=38&Obj1=4&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=0&ModeID=716&Kills=30&Deaths=28&Obj1=4&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=0&ModeID=716&Kills=52&Deaths=32&Obj1=10&Obj2=8&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=0&ModeID=716&Kills=34&Deaths=32&Obj1=9&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=0&ModeID=716&Kills=25&Deaths=33&Obj1=9&Obj2=6&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Solar&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=22&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2742&TeamAScore=6&TeamBScore=5&aHost=0&bHost=0&Mode=1&MatchID=179&Time=594
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=1&ModeID=892&Kills=8&Deaths=9&Obj1=1&Obj2=0&Obj3=0&Fb=3&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=1&ModeID=892&Kills=7&Deaths=9&Obj1=0&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=1&ModeID=892&Kills=9&Deaths=5&Obj1=2&Obj2=0&Obj3=3&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=1&ModeID=892&Kills=10&Deaths=8&Obj1=0&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=1&ModeID=892&Kills=5&Deaths=11&Obj1=0&Obj2=0&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=1&ModeID=892&Kills=10&Deaths=7&Obj1=1&Obj2=1&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=1&ModeID=892&Kills=9&Deaths=11&Obj1=0&Obj2=0&Obj3=2&Fb=3&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=1&ModeID=892&Kills=9&Deaths=7&Obj1=0&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Retreat&Mode=Capture the Flag
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=10&ScoreTypeID=3&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2743&TeamAScore=1&TeamBScore=0&aHost=0&bHost=0&Mode=2&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Solar&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=23&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2744&TeamAScore=250&TeamBScore=87&aHost=0&bHost=0&Mode=0&MatchID=179&Time=561
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=0&ModeID=717&Kills=36&Deaths=21&Obj1=3&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=0&ModeID=717&Kills=25&Deaths=38&Obj1=10&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=0&ModeID=717&Kills=34&Deaths=28&Obj1=9&Obj2=3&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=0&ModeID=717&Kills=28&Deaths=33&Obj1=10&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=0&ModeID=717&Kills=31&Deaths=27&Obj1=5&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=0&ModeID=717&Kills=20&Deaths=33&Obj1=10&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=0&ModeID=717&Kills=32&Deaths=24&Obj1=14&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=0&ModeID=717&Kills=24&Deaths=30&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Detroit&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=12&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2745&TeamAScore=6&TeamBScore=4&aHost=0&bHost=0&Mode=1&MatchID=179&Time=603
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=1&ModeID=893&Kills=9&Deaths=8&Obj1=0&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=1&ModeID=893&Kills=7&Deaths=7&Obj1=0&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=1&ModeID=893&Kills=7&Deaths=5&Obj1=0&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=1&ModeID=893&Kills=6&Deaths=8&Obj1=0&Obj2=0&Obj3=1&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=1&ModeID=893&Kills=6&Deaths=7&Obj1=1&Obj2=0&Obj3=1&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=1&ModeID=893&Kills=7&Deaths=9&Obj1=0&Obj2=0&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=1&ModeID=893&Kills=9&Deaths=7&Obj1=1&Obj2=0&Obj3=3&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=1&ModeID=893&Kills=7&Deaths=7&Obj1=0&Obj2=1&Obj3=3&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=DOGS&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Comeback&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=20&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2746&TeamAScore=20&TeamBScore=1&aHost=0&bHost=0&Mode=3&MatchID=179&Time=544
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Batuta
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=3&ModeID=559&Kills=25&Deaths=21&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=379&Mode=3&ModeID=559&Kills=22&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=FKiNg
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=3&ModeID=559&Kills=29&Deaths=17&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=381&Mode=3&ModeID=559&Kills=15&Deaths=26&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=eRoDy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=3&ModeID=559&Kills=29&Deaths=14&Obj1=7&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=383&Mode=3&ModeID=559&Kills=20&Deaths=23&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=DJNay
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=3&ModeID=559&Kills=15&Deaths=17&Obj1=9&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=385&Mode=3&ModeID=559&Kills=12&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=19&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2747&TeamAScore=187&TeamBScore=210&aHost=0&bHost=0&Mode=0&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=0&ModeID=718&Kills=42&Deaths=28&Obj1=6&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=0&ModeID=718&Kills=33&Deaths=34&Obj1=4&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=0&ModeID=718&Kills=28&Deaths=37&Obj1=5&Obj2=7&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=0&ModeID=718&Kills=34&Deaths=29&Obj1=9&Obj2=7&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=0&ModeID=718&Kills=30&Deaths=34&Obj1=8&Obj2=5&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=0&ModeID=718&Kills=33&Deaths=31&Obj1=9&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=0&ModeID=718&Kills=23&Deaths=32&Obj1=9&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=0&ModeID=718&Kills=27&Deaths=30&Obj1=10&Obj2=8&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Solar&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=22&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2748&TeamAScore=6&TeamBScore=5&aHost=0&bHost=0&Mode=1&MatchID=179&Time=612
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=1&ModeID=894&Kills=8&Deaths=4&Obj1=0&Obj2=0&Obj3=1&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=1&ModeID=894&Kills=3&Deaths=9&Obj1=0&Obj2=0&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=1&ModeID=894&Kills=2&Deaths=6&Obj1=0&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=1&ModeID=894&Kills=4&Deaths=7&Obj1=0&Obj2=0&Obj3=4&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=1&ModeID=894&Kills=7&Deaths=5&Obj1=0&Obj2=0&Obj3=2&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=1&ModeID=894&Kills=6&Deaths=9&Obj1=1&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=1&ModeID=894&Kills=14&Deaths=5&Obj1=1&Obj2=0&Obj3=1&Fb=3&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=1&ModeID=894&Kills=7&Deaths=6&Obj1=1&Obj2=0&Obj3=2&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Retreat&Mode=Capture the Flag
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=10&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2749&TeamAScore=4&TeamBScore=3&aHost=0&bHost=0&Mode=2&MatchID=179&Time=661
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=2&ModeID=576&Kills=28&Deaths=18&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=2&ModeID=576&Kills=15&Deaths=25&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=2&ModeID=576&Kills=29&Deaths=18&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=2&ModeID=576&Kills=27&Deaths=22&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=2&ModeID=576&Kills=15&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=2&ModeID=576&Kills=20&Deaths=22&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=2&ModeID=576&Kills=20&Deaths=17&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=2&ModeID=576&Kills=16&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Virtue Gaming&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Detroit&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=1&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=179&MapModeID=13&ScoreTypeID=1&GameNum=4
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2750&TeamAScore=8&TeamBScore=6&aHost=0&bHost=0&Mode=3&MatchID=179&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Rafa
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=3&ModeID=560&Kills=24&Deaths=20&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=390&Mode=3&ModeID=560&Kills=20&Deaths=29&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=RxcK
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=3&ModeID=560&Kills=28&Deaths=23&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=391&Mode=3&ModeID=560&Kills=27&Deaths=26&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=VrTChamp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=3&ModeID=560&Kills=28&Deaths=23&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=392&Mode=3&ModeID=560&Kills=16&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=CocoLander
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=3&ModeID=560&Kills=25&Deaths=17&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=393&Mode=3&ModeID=560&Kills=19&Deaths=26&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Solar&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=2&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=180&MapModeID=23&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2751&TeamAScore=174&TeamBScore=206&aHost=0&bHost=0&Mode=0&MatchID=180&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=0&ModeID=719&Kills=35&Deaths=33&Obj1=12&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=0&ModeID=719&Kills=35&Deaths=32&Obj1=4&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=0&ModeID=719&Kills=29&Deaths=30&Obj1=12&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=0&ModeID=719&Kills=38&Deaths=34&Obj1=10&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=0&ModeID=719&Kills=33&Deaths=33&Obj1=10&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=0&ModeID=719&Kills=25&Deaths=30&Obj1=5&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=0&ModeID=719&Kills=27&Deaths=33&Obj1=13&Obj2=2&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=0&ModeID=719&Kills=30&Deaths=33&Obj1=20&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Riot&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=2&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=180&MapModeID=25&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2752&TeamAScore=3&TeamBScore=6&aHost=0&bHost=0&Mode=1&MatchID=180&Time=551
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=1&ModeID=895&Kills=3&Deaths=7&Obj1=0&Obj2=0&Obj3=3&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=1&ModeID=895&Kills=10&Deaths=5&Obj1=0&Obj2=2&Obj3=2&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=1&ModeID=895&Kills=6&Deaths=8&Obj1=3&Obj2=0&Obj3=4&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=1&ModeID=895&Kills=12&Deaths=3&Obj1=1&Obj2=0&Obj3=2&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=1&ModeID=895&Kills=8&Deaths=7&Obj1=0&Obj2=1&Obj3=1&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=1&ModeID=895&Kills=6&Deaths=6&Obj1=1&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=1&ModeID=895&Kills=2&Deaths=9&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=1&ModeID=895&Kills=5&Deaths=5&Obj1=1&Obj2=0&Obj3=0&Fb=4&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Comeback&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=2&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=180&MapModeID=20&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2753&TeamAScore=4&TeamBScore=11&aHost=0&bHost=0&Mode=3&MatchID=180&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=3&ModeID=561&Kills=29&Deaths=27&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=3&ModeID=561&Kills=28&Deaths=28&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=3&ModeID=561&Kills=23&Deaths=27&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=3&ModeID=561&Kills=27&Deaths=29&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=3&ModeID=561&Kills=26&Deaths=26&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=3&ModeID=561&Kills=26&Deaths=23&Obj1=1&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=3&ModeID=561&Kills=27&Deaths=26&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=3&ModeID=561&Kills=25&Deaths=25&Obj1=3&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Biolab&Mode=Hardpoint
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=3&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=182&MapModeID=19&ScoreTypeID=1&GameNum=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2754&TeamAScore=250&TeamBScore=94&aHost=0&bHost=0&Mode=0&MatchID=182&Time=486
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=0&ModeID=720&Kills=26&Deaths=27&Obj1=10&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=0&ModeID=720&Kills=24&Deaths=27&Obj1=5&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=0&ModeID=720&Kills=25&Deaths=19&Obj1=5&Obj2=6&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=0&ModeID=720&Kills=28&Deaths=33&Obj1=7&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=0&ModeID=720&Kills=26&Deaths=23&Obj1=5&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=0&ModeID=720&Kills=23&Deaths=28&Obj1=6&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=0&ModeID=720&Kills=36&Deaths=26&Obj1=5&Obj2=9&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=0&ModeID=720&Kills=20&Deaths=29&Obj1=5&Obj2=4&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Recovery&Mode=Search and Destroy
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=3&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=182&MapModeID=24&ScoreTypeID=1&GameNum=2
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2755&TeamAScore=0&TeamBScore=6&aHost=0&bHost=0&Mode=1&MatchID=182&Time=306
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=1&ModeID=896&Kills=3&Deaths=6&Obj1=0&Obj2=0&Obj3=3&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=1&ModeID=896&Kills=11&Deaths=1&Obj1=0&Obj2=0&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=1&ModeID=896&Kills=2&Deaths=6&Obj1=0&Obj2=0&Obj3=2&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=1&ModeID=896&Kills=2&Deaths=1&Obj1=1&Obj2=1&Obj3=0&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=1&ModeID=896&Kills=1&Deaths=6&Obj1=0&Obj2=0&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=1&ModeID=896&Kills=7&Deaths=3&Obj1=2&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=1&ModeID=896&Kills=3&Deaths=6&Obj1=1&Obj2=0&Obj3=0&Fb=1&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=1&ModeID=896&Kills=4&Deaths=4&Obj1=0&Obj2=0&Obj3=0&Fb=2&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Retreat&Mode=Capture the Flag
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=3&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=182&MapModeID=10&ScoreTypeID=1&GameNum=3
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2756&TeamAScore=3&TeamBScore=1&aHost=0&bHost=0&Mode=2&MatchID=182&Time=600
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=2&ModeID=577&Kills=23&Deaths=20&Obj1=0&Obj2=1&Obj3=5&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=2&ModeID=577&Kills=22&Deaths=21&Obj1=0&Obj2=1&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=2&ModeID=577&Kills=22&Deaths=14&Obj1=1&Obj2=0&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=2&ModeID=577&Kills=17&Deaths=23&Obj1=0&Obj2=1&Obj3=4&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=2&ModeID=577&Kills=17&Deaths=16&Obj1=2&Obj2=1&Obj3=1&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=2&ModeID=577&Kills=15&Deaths=24&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=2&ModeID=577&Kills=24&Deaths=28&Obj1=0&Obj2=1&Obj3=2&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=2&ModeID=577&Kills=24&Deaths=19&Obj1=1&Obj2=2&Obj3=3&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=SSOF&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getRosterID.php
+Post parameters : TeamName=Brazilla&EventID=10
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMapModeID.php
+Post parameters : MapName=Detroit&Mode=Uplink
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getMatchID.php
+Post parameters : EventID=10&RosterAID=0&RosterBID=0&MatchTypeID=3&Day=3&ScoreTypeID=1
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getGameID.php
+Post parameters : MatchID=182&MapModeID=13&ScoreTypeID=1&GameNum=4
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getModeID.php
+Post parameters : GameID=2757&TeamAScore=12&TeamBScore=8&aHost=0&bHost=0&Mode=3&MatchID=182&Time=592
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Caio
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Nikko
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=44&Mode=3&ModeID=562&Kills=20&Deaths=26&Obj1=6&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=386&Mode=3&ModeID=562&Kills=29&Deaths=26&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Carlao
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=ForTunaTo
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=45&Mode=3&ModeID=562&Kills=28&Deaths=20&Obj1=2&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=387&Mode=3&ModeID=562&Kills=29&Deaths=27&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Le
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=iRapp
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=46&Mode=3&ModeID=562&Kills=32&Deaths=22&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=388&Mode=3&ModeID=562&Kills=24&Deaths=27&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=Hx
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/getPlayerID.php
+Post parameters : PlayerName=STAL1ZY
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=376&Mode=3&ModeID=562&Kills=25&Deaths=26&Obj1=4&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
+
+Sending 'POST' request to URL : http://www.codstreams.net/statUpload/submitPlayerRecord.php
+Post parameters : PlayerID=389&Mode=3&ModeID=562&Kills=12&Deaths=25&Obj1=0&Obj2=0&Obj3=0&Fb=0&Host=0
+Response Code : 200
